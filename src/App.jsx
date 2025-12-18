@@ -1,4 +1,3 @@
-import React from 'react'
 import './index.css'
 import Hero from "../src/components/mvpblocks/gradient-hero";
 import Features from "../src/components/mvpblocks/feature-2";
