@@ -6,11 +6,14 @@ import TestimonialsCarousel from "../src/components/mvpblocks/testimonials-carou
 import FAQ from "../src/components/mvpblocks/faq-3";
 // import CTA from "../src/components/mvpblocks/cta-2";
 // import Contact from "../src/components/mvpblocks/contact-us-1";
-
+import Sparkles from "../src/components/mvpblocks/sparkles-logo";
+import Footer from "../src/components/mvpblocks/footer-standard";
+import Header2 from "../src/components/mvpblocks/header-2"
 
 const App = () => {
   return (
     <div>
+      <Header2 />
       <Hero />
       <Features />
       <Pricing />
@@ -18,7 +21,8 @@ const App = () => {
       <FAQ />
       {/* <CTA /> */}
       {/* <Contact /> */}
-
+      <Sparkles />
+      <Footer />
     </div>
   )
 }
