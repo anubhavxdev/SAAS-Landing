@@ -75,7 +75,7 @@ export default function FooterStandard() {
                 height={40}
                 className="size-10"
               />
-              <span className="text-xl font-semibold">Anubhav Jaiswal</span>
+              <span className="text-xl font-semibold">Eventone</span>
             </a>
             <p className="text-muted-foreground max-w-md">
               Building innovative solutions for modern businesses. Fast,
@@ -154,7 +154,7 @@ export default function FooterStandard() {
         <div className="animate-rotate-3d via-primary h-px w-full bg-gradient-to-r from-transparent to-transparent" />
         <div className="text-muted-foreground container m-auto flex flex-col items-center justify-between gap-4 p-4 text-xs md:flex-row md:px-0 md:text-sm">
           <p className="">
-            &copy; {currentYear} Anubhav Jaiswal | All rights reserved
+            &copy; {currentYear} Eventone | All rights reserved
           </p>
           <div className="flex items-center gap-4">
             {data().bottomLinks.map(({ href, label }) => (

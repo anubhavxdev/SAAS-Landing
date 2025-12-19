@@ -102,9 +102,9 @@ function FAQItem({ question, answer, index }) {
 export default function Faq3() {
   const faqs = [
     {
-      question: "What makes MVPBlocks unique?",
+      question: "What makes Eventone unique?",
       answer:
-        "MVPBlocks stands out through its intuitive design, powerful component library, and seamless integration options. We've focused on creating a user experience that combines simplicity with advanced features, all while maintaining excellent performance and accessibility.",
+        "Eventone stands out through its intuitive design, powerful component library, and seamless integration options. We've focused on creating a user experience that combines simplicity with advanced features, all while maintaining excellent performance and accessibility.",
     },
     {
       question: "How can I customize the components?",
@@ -114,17 +114,17 @@ export default function Faq3() {
     {
       question: "Do the components work with dark mode?",
       answer:
-        "Yes, all MVPBlocks components are designed to work seamlessly with both light and dark modes. They automatically adapt to your site's theme settings, providing a consistent user experience regardless of the user's preference.",
+        "Yes, all Eventone components are designed to work seamlessly with both light and dark modes. They automatically adapt to your site's theme settings, providing a consistent user experience regardless of the user's preference.",
     },
     {
-      question: "How can I get started with MVPBlocks?",
+      question: "How can I get started with Eventone?",
       answer:
         "You can get started by browsing our component library and copying the code for the components you need. Our documentation provides clear instructions for installation and usage, and you can always reach out to our support team if you need assistance.",
     },
     {
-      question: "Can I use MVPBlocks for commercial projects?",
+      question: "Can I use Eventone for commercial projects?",
       answer:
-        "Absolutely! MVPBlocks is free to use for both personal and commercial projects. There are no licensing fees or attribution requirements—just build and launch your MVP faster than ever before.",
+        "Absolutely! Eventone is free to use for both personal and commercial projects. There are no licensing fees or attribution requirements—just build and launch your MVP faster than ever before.",
     },
   ];
   return (
@@ -149,7 +149,7 @@ export default function Faq3() {
             Frequently Asked Questions
           </h2>
           <p className="text-muted-foreground text-sm">
-            Everything you need to know about MVPBlocks
+            Everything you need to know about Eventone
           </p>
         </motion.div>
 

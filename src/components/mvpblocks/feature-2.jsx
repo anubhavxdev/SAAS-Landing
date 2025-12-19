@@ -35,7 +35,7 @@ const features = [
     step: "Step 4",
     title: "Add Yours!",
     content:
-      "Contribute your own blocks and become part of the MVPBlocks community.",
+      "Contribute your own blocks and become part of the Eventone community.",
     icon: <Code className="text-primary h-6 w-6" />,
     image:
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop",
@@ -64,7 +64,7 @@ export default function FeatureSteps() {
               Build Your MVP in Three Steps
             </h2>
             <p className="font-geist text-foreground/60 mt-3">
-              MVPBlocks helps you create, customize, and deploy your product
+              Eventone helps you create, customize, and deploy your product
               faster than ever before.
             </p>
           </div>
